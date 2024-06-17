@@ -15,7 +15,7 @@ This repository contains code and resources for performing anomaly detection on 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 3. Run the anomaly detection algorithms using the provided scripts or notebooks.
 4. Evaluate the results and visualize the detected anomalies.
 
-For detailed usage instructions and examples, refer to the documentation and example notebooks in the `docs/` directory.
+
 
 ## Contributing
 
