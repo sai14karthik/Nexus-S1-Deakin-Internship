@@ -30,10 +30,10 @@ Anomaly detection in time series data is a critical task with applications in di
 
 ## Installation
 
-1. Clone the repository:
-
+```bash
 cd time-series-anomaly-detection
 pip install -r requirements.txt
+
 
 ## Usage
 
