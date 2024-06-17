@@ -6,7 +6,7 @@ This repository contains code and resources for performing anomaly detection on 
 
 - Wind-Solar Electricity Production Data
 - UNSW-NB15 Cybersecurity Dataset
-- LEAD Dataset (insert brief description if available)
+- LEAD Dataset 
 
 ## Table of Contents
 
