@@ -34,6 +34,7 @@ Anomaly detection in time series data is a critical task with applications in di
 cd time-series-anomaly-detection
 pip install -r requirements.txt
 
+```
 
 ## Usage
 
