@@ -13,8 +13,7 @@ This repository contains code and resources for performing anomaly detection on 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
+
 
 ## Introduction
 
