@@ -33,6 +33,6 @@ Anomaly detection in time series data is a critical task with applications in di
 Clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/yourusername/time-series-anomaly-detection.git
+git clone https://github.com/sai14karthik/Nexus-S1-Deakin-Internship
 cd time-series-anomaly-detection
 pip install -r requirements.txt
