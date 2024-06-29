@@ -2,10 +2,9 @@
 
 ## Time Series Anomaly Detection
 
-This repository contains code and resources for performing anomaly detection on time series data. The project focuses on detecting anomalies in various types of time series datasets, including:
+This repository contains code and resources for performing anomaly detection on time series data:
 
-- [Wind-Solar Electricity Production Data](https://www.kaggle.com/datasets/henriupton/wind-solar-electricity-production)
-- [UNSW-NB15 Cybersecurity Dataset](https://research.unsw.edu.au/projects/unsw-nb15-dataset)
+
 - [LEAD Dataset](https://github.com/samy101/lead-dataset)
 
 ## Table of Contents
