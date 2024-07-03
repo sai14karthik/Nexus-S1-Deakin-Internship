@@ -2,18 +2,16 @@
 
 ## Time Series Anomaly Detection
 
-This repository contains code and resources for performing anomaly detection on time series data:
+This repository contains code and resources for performing anomaly detection on time series data.
 
-
-- [Key Performance Indicator dataset ](https://data.world/datasets/kpi)
+- [Key Performance Indicator dataset](https://data.world/datasets/kpi)
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Papers] (#Papers)
-
+- [Papers](#papers)
 
 ## Introduction
 
@@ -35,9 +33,9 @@ Clone the repository and install the required packages:
 git clone https://github.com/sai14karthik/Nexus-S1-Deakin-Internship
 cd Nexus-S1-Deakin-Internship
 pip install -r requirements.txt
+```
 
-'''
-## Papers 
+## Papers
+
 - [TODS](https://www.kaggle.com/datasets/boltzmannbrain/nab)
 - [TadGAN](https://arxiv.org/abs/2009.07769)
-
