@@ -5,7 +5,7 @@
 This repository contains code and resources for performing anomaly detection on time series data:
 
 
-- [Numenta Anomaly Benchmark (NAB)](https://www.kaggle.com/datasets/boltzmannbrain/nab)
+- [Key Performance Indicator dataset ](https://data.world/datasets/kpi)
 
 ## Table of Contents
 
