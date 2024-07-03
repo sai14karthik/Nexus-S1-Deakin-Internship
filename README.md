@@ -35,13 +35,28 @@ cd Nexus-S1-Deakin-Internship
 pip install -r requirements.txt
 ```
 
-## Papers
+## Papers on Anomaly Detection in Time Series Data
 
-- [TODS](https://arxiv.org/abs/2009.09822)
-- [TadGAN](https://arxiv.org/abs/2009.07769)
-- [PyOd] (<https://arxiv.org/abs/1901.01588>)
-- [AutoEncoders] ("<https://arxiv.org/abs/1807.02011>")
-- [LUCID] ("<https://ieeexplore.ieee.org/document/8984222>")
-- [Isolation Forest] ("<https://ieeexplore.ieee.org/document/4781136>")
-- [Nearest-Neighbor Ensembles] ("<https://onlinelibrary.wiley.com/doi/10.1111/coin.12156>")
+### TODS (Time series Outlier Detection System)
+- **Description**: TODS is a comprehensive framework designed for automated time series anomaly detection, integrating various algorithms and tools.
+- **Link**: [TODS Paper](https://arxiv.org/abs/2009.09822)
 
+### TadGAN (Temporal Anomaly Detection using Generative Adversarial Networks)
+- **Description**: TadGAN utilizes Generative Adversarial Networks (GANs) to capture temporal dependencies and detect anomalies in time series data.
+- **Link**: [TadGAN Paper](https://arxiv.org/abs/2009.07769)
+
+### PyOD (Python Outlier Detection)
+- **Description**: PyOD is a Python toolbox for scalable outlier detection, providing implementations of various algorithms suitable for time series data.
+- **Link**: [PyOD Paper](https://arxiv.org/abs/1901.01588)
+
+### AutoEncoders
+- **Description**: This paper discusses the application of autoencoders, particularly LSTM-based, for anomaly detection in time series data by learning normal patterns.
+- **Link**: [AutoEncoders Paper](https://arxiv.org/abs/1807.02011)
+
+### Isolation Forest
+- **Description**: Isolation Forest is an algorithm designed for anomaly detection by isolating anomalies in high-dimensional datasets using decision trees.
+- **Link**: [Isolation Forest Paper](https://ieeexplore.ieee.org/document/4781136)
+
+### Nearest-Neighbor Ensembles
+- **Description**: This paper explores the effectiveness of nearest-neighbor ensembles for anomaly detection in various domains.
+- **Link**: [Nearest-Neighbor Ensembles Paper](https://onlinelibrary.wiley.com/doi/10.1111/coin.12156)
