@@ -37,5 +37,11 @@ pip install -r requirements.txt
 
 ## Papers
 
-- [TODS](https://www.kaggle.com/datasets/boltzmannbrain/nab)
+- [TODS](https://arxiv.org/abs/2009.09822)
 - [TadGAN](https://arxiv.org/abs/2009.07769)
+- [PyOd] (https://arxiv.org/abs/1901.01588)
+- [AutoEncoders] ("https://arxiv.org/abs/1807.02011")
+- [LUCID] ("https://ieeexplore.ieee.org/document/8984222")
+- [Isolation Forest] ("https://ieeexplore.ieee.org/document/4781136")
+- [Nearest-Neighbor Ensembles] ("https://onlinelibrary.wiley.com/doi/10.1111/coin.12156")
+
