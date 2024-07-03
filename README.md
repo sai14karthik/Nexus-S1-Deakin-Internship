@@ -12,6 +12,7 @@ This repository contains code and resources for performing anomaly detection on 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
+- [Papers] (#Papers)
 
 
 ## Introduction
@@ -32,5 +33,11 @@ Clone the repository and install the required packages:
 
 ```bash
 git clone https://github.com/sai14karthik/Nexus-S1-Deakin-Internship
-cd time-series-anomaly-detection
+cd Nexus-S1-Deakin-Internship
 pip install -r requirements.txt
+
+'''
+## Papers 
+- [TODS](https://www.kaggle.com/datasets/boltzmannbrain/nab)
+- [TadGAN](https://arxiv.org/abs/2009.07769)
+
