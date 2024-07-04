@@ -60,3 +60,7 @@ pip install -r requirements.txt
 ### Nearest-Neighbor Ensembles
 - **Description**: This paper explores the effectiveness of nearest-neighbor ensembles for anomaly detection in various domains.
 - **Link**: [Nearest-Neighbor Ensembles Paper](https://onlinelibrary.wiley.com/doi/10.1111/coin.12156)
+
+### Hybrid VAE-LSTM Model
+- **Description**: This paper explores VAE-LSTM hybrid model as an unsupervised approach for anomaly detection in time series. Our model utilizes both a VAE module for forming robust local features over short windows and a LSTM module for estimating the long term correlation in the series on top of the features inferred from the VAE module.
+- **Link**: [VAE-LSTM HYBRID MODEL](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9053558)
