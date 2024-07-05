@@ -35,7 +35,7 @@ cd Nexus-S1-Deakin-Internship
 pip install -r requirements.txt
 ```
 
-## Papers on Anomaly Detection in Time Series Data
+## Papers on Anomaly Detection in Time Series Data 
 
 ### TODS (Time series Outlier Detection System)
 - **Description**: TODS is a comprehensive framework designed for automated time series anomaly detection, integrating various algorithms and tools.
@@ -49,9 +49,11 @@ pip install -r requirements.txt
 - **Description**: PyOD is a Python toolbox for scalable outlier detection, providing implementations of various algorithms suitable for time series data.
 - **Link**: [PyOD Paper](https://arxiv.org/abs/1901.01588)
 
-### AutoEncoders
+### AutoEncoders based LSTM (Long short-term memory)
 - **Description**: This paper discusses the application of autoencoders, particularly LSTM-based, for anomaly detection in time series data by learning normal patterns.
 - **Link**: [AutoEncoders Paper](https://arxiv.org/abs/1807.02011)
+- **Link**: [LSTM Paper](https://ieeexplore.ieee.org/document/8125846)
+
 
 ### Isolation Forest
 - **Description**: Isolation Forest is an algorithm designed for anomaly detection by isolating anomalies in high-dimensional datasets using decision trees.
@@ -60,10 +62,6 @@ pip install -r requirements.txt
 ### Nearest-Neighbor Ensembles
 - **Description**: This paper explores the effectiveness of nearest-neighbor ensembles for anomaly detection in various domains.
 - **Link**: [Nearest-Neighbor Ensembles Paper](https://onlinelibrary.wiley.com/doi/10.1111/coin.12156)
-
-### LSTM 
-- **Description**: Long short-term memory (LSTM) architecture is an important approach for capturing long-range temporal dependencies in sequences of arbitrary length.
-- **Link**: [LSTM Paper](https://ieeexplore.ieee.org/document/8125846)
 
 ### Hybrid VAE-LSTM Model
 - **Description**: This paper explores VAE-LSTM hybrid model as an unsupervised approach for anomaly detection in time series.
