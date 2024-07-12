@@ -4,7 +4,7 @@
 
 This repository contains code and resources for performing anomaly detection on time series data.
 
-- [Key Performance Indicator dataset](https://data.world/datasets/kpi)
+- [Numenta Anomaly Benchmark (NAB)](https://www.kaggle.com/datasets/boltzmannbrain/nab)
 
 ## Table of Contents
 
@@ -20,10 +20,10 @@ Anomaly detection in time series data is a critical task with applications in di
 ## Features
 
 - **Preprocessing Utilities:** Tools for cleaning and transforming time series data.
-- **Anomaly Detection Algorithms:** Implementation of various algorithms, including statistical methods and machine learning models.
+- **Anomaly Detection Models:** Implementation of anomaly detection models.
 - **Evaluation Metrics:** Methods for assessing the performance of anomaly detection algorithms.
 - **Visualization Tools:** Tools for visualizing detected anomalies.
-- **Example Notebooks and Scripts:** Demonstrations of the implemented algorithms on sample datasets.
+
 
 ## Installation
 
