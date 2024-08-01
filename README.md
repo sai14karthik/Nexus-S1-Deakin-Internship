@@ -5,6 +5,7 @@
 This repository contains code and resources for performing anomaly detection on time series data.
 
 - [Numenta Anomaly Benchmark (NAB)](https://www.kaggle.com/datasets/boltzmannbrain/nab)
+- [Large-scale Energy Anomaly Detection (LEAD)] (https://github.com/samy101/lead-dataset?tab=readme-ov-file)
 
 ## Table of Contents
 
@@ -48,17 +49,4 @@ pip install -r requirements.txt
 ### PyOD (Python Outlier Detection)
 - **Description**: PyOD is a Python toolbox for scalable outlier detection, providing implementations of various algorithms suitable for time series data.
 - **Link**: [PyOD Paper](https://arxiv.org/abs/1901.01588)
-
-### AutoEncoders based LSTM (Long short-term memory)
-- **Description**: This paper discusses the application of autoencoders, particularly LSTM-based, for anomaly detection in time series data by learning normal patterns.
-- **Link**: [AutoEncoders Paper](https://arxiv.org/abs/1807.02011)
-- **Link**: [LSTM Paper](https://ieeexplore.ieee.org/document/8125846)
-
-
-### Isolation Forest
-- **Description**: Isolation Forest is an algorithm designed for anomaly detection by isolating anomalies in high-dimensional datasets using decision trees.
-- **Link**: [Isolation Forest Paper](https://ieeexplore.ieee.org/document/4781136)
-
-### Nearest-Neighbor Ensembles
-- **Description**: This paper explores the effectiveness of nearest-neighbor ensembles for anomaly detection in various domains.
-- **Link**: [Nearest-Neighbor Ensembles Paper](https://onlinelibrary.wiley.com/doi/10.1111/coin.12156)
+)
