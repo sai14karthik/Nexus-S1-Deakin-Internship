@@ -5,7 +5,7 @@
 This repository contains code and resources for performing anomaly detection on time series data.
 
 - [Numenta Anomaly Benchmark (NAB)](https://www.kaggle.com/datasets/boltzmannbrain/nab)
-- [Large-scale Energy Anomaly Detection (LEAD)] (https://github.com/samy101/lead-dataset?tab=readme-ov-file)
+- [Large-scale Energy Anomaly Detection (LEAD)] (<https://github.com/samy101/lead-dataset?tab=readme-ov-file>)
 
 ## Table of Contents
 
