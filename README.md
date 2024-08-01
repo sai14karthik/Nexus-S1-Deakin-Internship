@@ -49,4 +49,4 @@ pip install -r requirements.txt
 ### PyOD (Python Outlier Detection)
 - **Description**: PyOD is a Python toolbox for scalable outlier detection, providing implementations of various algorithms suitable for time series data.
 - **Link**: [PyOD Paper](https://arxiv.org/abs/1901.01588)
-)
+
